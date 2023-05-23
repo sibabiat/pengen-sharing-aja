@@ -19,6 +19,7 @@ $ amass enum -d site.com -passive -o scopes.txt
 | `-o`      | **Required**. Id of item to fetch |
 | `scopes.txt`      | **Required**. Id of item to fetch |
 
+##### Bahan bacaan
  - [Getting started with amass](https://github.com/owasp-amass/amass)
 
 #### Enumerasi menggunakan subfinder
