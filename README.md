@@ -1,4 +1,4 @@
-# things I learned
+# Things I learned
 Awesome one line for bug bounty and other things.
 
 ## Subdomain Enumeration
