@@ -5,6 +5,8 @@ Pengen sharing aja saya mah bener ga pengen yang lain
 Subdomain enumeration adalah
 
 #### Enumerasi menggunakan amass (favorit)
+Gatau kenapa tapi yang jelas ini favorit saya sih, super ngebut dan walaupun dengan API keys yang kita provide minim dia bisa subdomain or attack surface dengan result yang sangat banyak dan oke. Dan yang paling mantepnya lagi adalah, amass ini ngebut banget. Love OWASP, love amass.
+
 ```bash
 $ amass enum -d site.com -passive -o scopes.txt
 ```
@@ -20,7 +22,7 @@ $ amass enum -d site.com -passive -o scopes.txt
 | `scopes.txt`      | **Required**. Id of item to fetch |
 
 ##### Bahan bacaan
- - [Getting started with amass](https://github.com/owasp-amass/amass)
+ - [Mempelajari amass](https://github.com/owasp-amass/amass)
 
 #### Enumerasi menggunakan subfinder
 ```bash
