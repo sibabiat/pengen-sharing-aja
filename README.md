@@ -1,5 +1,5 @@
-# Things I learned
-Awesome one line for bug bounty and other things.
+# Gatau saya mau sharing aja
+Pengen sharing aja saya mah bener ga pengen yang lain
 
 ## Subdomain Enumeration
 Subdomain enumeration adalah
