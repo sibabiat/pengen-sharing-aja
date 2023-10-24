@@ -11,7 +11,7 @@ Merupakan tahapan dimana kita sudah tau objek mana yang akan kita jadikan target
 
 Gampangnya information gathering ini diperlukan untuk extend visibility kita akan sesuatu. Contoh, misalnya mau beli mobil. Kalo kita liat mobil dari merk aja atau dari foto aja atau dari luarnya aja, mungkin kita akan miss dibagian mesin padahal ternyata dibagian mesin ini ada yang kurang. Nah biasanya kalo mau pentest atau bug hunt itu, kita akan dikasih akses dan informasi minim banget tentang target. Biasanya dikasih cuman domain-domain yang masuk kedalam target. Lalu, gimana kita extend visibilitynya? Ya get creative. Kita harus sekreatif mungkin untuk cari informasi menggunakan intelligence / informasi yang tersebar di internet menggunakan tools yang ada gitu.
 
-[Information Gathering](https://github.com/sibabiat/ijustwannamakemymommaproud/blob/main/information-gathering.md)
+[Information Gathering](https://github.com/sibabiat/pengen-sharing-aja/blob/main/information-gathering.md)
 
 ### 2. Exploitation
 
@@ -20,6 +20,8 @@ Eksploitasi ini tahapan yang penting banget sih, dimana di tahap ini yang membed
 ### 3. Reporting
 
 Reporting atau menulis laporan adalah tahap paling-paling penting dalam proses pentest. Kenapa paling penting? Karena di sini adalah cara kita untuk menkomunikasikan temuan kita. Sederhananya, kalo kita ngomong sama seseorang dan masing-masing dari kita gapaham konteksnya ya akan ga nyambung dan cenderung masuk kuping kanan keluar kuping kiri. Nah makanya kalo report kita ga jelas, ya jangan salahin client atau user kita kalo mereka neglect rekomendasi dari kita, orang kita ngomong aja remed, ibaratnya gitu.
+
+[Reporting](https://github.com/sibabiat/pengen-sharing-aja/blob/main/reporting.md)
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/ijel)<br>
