@@ -17,6 +17,8 @@ Gampangnya information gathering ini diperlukan untuk extend visibility kita aka
 
 Eksploitasi ini tahapan yang penting banget sih, dimana di tahap ini yang membedakan proses pentest dan vulnerability assessment. Pada umumnya VA tuh cara kerjanya dia cocoklogi, contoh kalo scanner nemuin ada OS versi 5, ternyata di OS versi 5 ini menurut database si scanner ada vulnerablity. Nah, secara otomatis scanner akan kasih result, 'Vulnerability A at OS versi 5'. Bedanya dengan pentest adalah kita ada proses dimana memvalidasi temuan dari scanner tersebut yaitu dengan menjalakan proses eksploitasi yang dapat dilakukan pada vulnerability tersebut, gitu geng.
 
+Saya gamau terlalu banyak tentang ini, karena kalian pasti jago-jago lah ya.
+
 ### 3. Reporting
 
 Reporting atau menulis laporan adalah tahap paling-paling penting dalam proses pentest. Kenapa paling penting? Karena di sini adalah cara kita untuk menkomunikasikan temuan kita. Sederhananya, kalo kita ngomong sama seseorang dan masing-masing dari kita gapaham konteksnya ya akan ga nyambung dan cenderung masuk kuping kanan keluar kuping kiri. Nah makanya kalo report kita ga jelas, ya jangan salahin client atau user kita kalo mereka neglect rekomendasi dari kita, orang kita ngomong aja remed, ibaratnya gitu.
